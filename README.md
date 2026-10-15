@@ -76,6 +76,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Books
 
+* 🇧🇷 [Confronto Cibernético](https://confrontocibernetico.com.br/) - Portuguese-language book by Hiago Kin Levi on APT investigation and incident response; public excerpts available.
 * 🌎 [Applied Incident Response](www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson's book on Incident Response.
 * 🌎 [Art of Memory Forensics](www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory.
 * 🌎 [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406) - by Jeff Bollinger, Brandon Enright and Matthew Valites.
